@@ -1,5 +1,5 @@
 ## Jobizz
-This project is a React Native Expo application that features two major screens, a login screen and a home screen with various parts, including a user profile section, a job search form, a featured job cards section, and a popular jobs section. The application uses reusable components to display job listings in a clean and organized manner.
+This project is a job search application that features two major screens, a login screen and a home screen with various parts, including a user profile section, a job search form, a featured job cards section, and a popular jobs section. The application uses reusable components to display job listings in a clean and organized manner.
 
 ## Features
 - **Job Listings:** View a list of available job opportunities, including job title, company, and location.
